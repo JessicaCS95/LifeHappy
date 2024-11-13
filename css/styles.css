@@ -47,7 +47,7 @@ main {
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     padding: 2rem;
     width: 100%;
-    max-width: 40rem;
+    max-width: 50rem;
 }
 
 h1 {
@@ -71,7 +71,6 @@ input {
     font-size: 1.6rem;
     color: #333;
     background-color: #fafafa;
-    transition: border-color 0.3s;
 }
 
 input:focus {
